@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-08T12:21:30.710Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="NlmOSZT84jcES8g7FHQn" version="12.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-08T12:27:43.290Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="MVQ-E_r6LT1KLth0hUr6" version="12.9.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1773" dy="1690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,7 +12,7 @@
             <mxPoint x="320" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Choix d&#39;une pizza" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Choix d&#39;une pizza" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="155" y="135" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
@@ -30,13 +30,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="&lt;br&gt;Commande finie ?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="&lt;br&gt;Commande finie ?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="310" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Fh5ID8DqyuNmly4tTI_g-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Choix d&#39;une autre pizza" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Choix d&#39;une autre pizza" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="20" y="330" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
@@ -53,7 +53,7 @@
         <mxCell id="G-hIVbg5v9CWW5Yy8Wli-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="G-hIVbg5v9CWW5Yy8Wli-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Règlement" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Règlement" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="430" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Fh5ID8DqyuNmly4tTI_g-0" value="Connexion" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -135,7 +135,7 @@
         <mxCell id="P_ejqXxA3MmKmbAG34VU-16" value="Scanne du QR Code par le livreur" style="rounded=1;whiteSpace=wrap;html=1;direction=north;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="1000" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SvVdULVF1Hvvb6DCQOAH-0" value="Info livraison : SMS/Mail avec code et QR Code envoyé au client" style="rounded=1;whiteSpace=wrap;html=1;direction=north;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="SvVdULVF1Hvvb6DCQOAH-0" value="&lt;i&gt;Info livraison : SMS/Mail avec code et QR Code envoyé au client&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=north;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;dashPattern=1 2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="995" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SvVdULVF1Hvvb6DCQOAH-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 4;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P_ejqXxA3MmKmbAG34VU-20" target="SvVdULVF1Hvvb6DCQOAH-2">
@@ -153,13 +153,13 @@
         <mxCell id="SvVdULVF1Hvvb6DCQOAH-5" value="Livraison suivante" style="rounded=1;whiteSpace=wrap;html=1;direction=north;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="1260" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SvVdULVF1Hvvb6DCQOAH-2" value="Entrée du code ou scan du QR Code par le livreur" style="rounded=1;whiteSpace=wrap;html=1;direction=north;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="SvVdULVF1Hvvb6DCQOAH-2" value="&lt;i&gt;Entrée du code ou scan du QR Code par le livreur&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=north;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;dashPattern=1 2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="1130" width="260" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="G-hIVbg5v9CWW5Yy8Wli-9" value="A la livraison" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="G-hIVbg5v9CWW5Yy8Wli-9" value="A la livraison" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="40" y="425" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="G-hIVbg5v9CWW5Yy8Wli-10" value="En ligne" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="G-hIVbg5v9CWW5Yy8Wli-10" value="En ligne" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="300" y="425" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="G-hIVbg5v9CWW5Yy8Wli-20" value="&lt;font color=&quot;#ff0000&quot;&gt;Limite d&#39;annulation et/ou de modification de la commande&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -237,6 +237,15 @@
         </mxCell>
         <mxCell id="SvVdULVF1Hvvb6DCQOAH-13" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 28px&quot;&gt;&lt;b&gt;CYCLE DE VIE D&#39;UNE COMMANDE&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF99CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="-390" width="590" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SvVdULVF1Hvvb6DCQOAH-16" value="&lt;font color=&quot;#000000&quot;&gt;NB : la demande de paiement interviendra au stade &quot;Commande en préparation&quot;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF99CC;dashed=1;dashPattern=1 2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="440" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SvVdULVF1Hvvb6DCQOAH-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 4;fontColor=#FF99CC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G-hIVbg5v9CWW5Yy8Wli-10" target="SvVdULVF1Hvvb6DCQOAH-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="470" as="sourcePoint" />
+            <mxPoint x="520" y="470" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
