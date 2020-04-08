@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-08T12:30:05.887Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="-ENcGZ7EZnP3MMNlWOrK" version="12.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-08T12:39:00.325Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="vbUQrSalc5GKUz6Z766Q" version="12.9.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1773" dy="1690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -136,7 +136,7 @@
           <mxGeometry x="160" y="1000" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SvVdULVF1Hvvb6DCQOAH-0" value="&lt;i&gt;Info livraison : SMS/Mail avec code et QR Code envoyé au client&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=north;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;dashPattern=1 2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="995" width="280" height="60" as="geometry" />
+          <mxGeometry x="480" y="995" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SvVdULVF1Hvvb6DCQOAH-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P_ejqXxA3MmKmbAG34VU-20" target="SvVdULVF1Hvvb6DCQOAH-2">
           <mxGeometry relative="1" as="geometry" />
@@ -151,10 +151,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SvVdULVF1Hvvb6DCQOAH-5" value="Livraison suivante" style="rounded=1;whiteSpace=wrap;html=1;direction=north;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="1260" width="120" height="50" as="geometry" />
+          <mxGeometry x="160" y="1240" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SvVdULVF1Hvvb6DCQOAH-2" value="&lt;i&gt;Entrée du code ou scan du QR Code par le livreur&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=north;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;dashPattern=1 2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="1130" width="280" height="50" as="geometry" />
+          <mxGeometry x="480" y="1130" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="G-hIVbg5v9CWW5Yy8Wli-9" value="A la livraison" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="40" y="425" width="100" height="90" as="geometry" />
@@ -162,8 +162,8 @@
         <mxCell id="G-hIVbg5v9CWW5Yy8Wli-10" value="En ligne" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="300" y="425" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="G-hIVbg5v9CWW5Yy8Wli-20" value="&lt;font color=&quot;#ff0000&quot;&gt;Limite d&#39;annulation et/ou de modification de la commande&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="820" y="600" width="360" height="70" as="geometry" />
+        <mxCell id="G-hIVbg5v9CWW5Yy8Wli-20" value="&lt;font color=&quot;#ff0000&quot;&gt;Limite d&#39;annulation et/ou de modification de la commande&lt;br&gt;Si validation : envoi demande de règlement de la commande&lt;br&gt;Si modif. : retour au Panier&lt;br&gt;Si annul. : annulation du Panier + envoi mail/SMS d&#39;annulation du règlement&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#CC0000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="850" y="600" width="360" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P_ejqXxA3MmKmbAG34VU-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P_ejqXxA3MmKmbAG34VU-1" target="Fh5ID8DqyuNmly4tTI_g-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -227,7 +227,7 @@
         <mxCell id="SvVdULVF1Hvvb6DCQOAH-8" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="827" y="1180" as="sourcePoint" />
-            <mxPoint x="827" y="1260" as="targetPoint" />
+            <mxPoint x="827" y="1360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SvVdULVF1Hvvb6DCQOAH-9" value="Commande livrée" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;rotation=0;fontColor=#67AB9F;fontStyle=1" vertex="1" connectable="0" parent="SvVdULVF1Hvvb6DCQOAH-8">
