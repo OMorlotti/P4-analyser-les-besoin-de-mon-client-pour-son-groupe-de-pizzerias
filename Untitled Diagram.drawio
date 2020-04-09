@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-08T14:25:27.481Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="O6FRqXfTS8If5h0lTJN2" version="12.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-09T01:06:40.788Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="wqrak8_GsP2D8FtXC2Ph" version="12.9.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1773" dy="1690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2178" dy="1919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -246,6 +246,9 @@
             <mxPoint x="400" y="470" as="sourcePoint" />
             <mxPoint x="520" y="470" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SvVdULVF1Hvvb6DCQOAH-27" value="&lt;font color=&quot;#000000&quot;&gt;Génération du QR Code (n° de commande)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#FF99CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="890" y="690" width="320" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
