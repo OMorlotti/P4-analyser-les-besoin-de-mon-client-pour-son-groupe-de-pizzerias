@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-04-15T15:22:09.466Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="Ij7bYuL9wNGNbgzC4cJm" version="12.9.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-15T15:33:13.564Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="ch9NMqnxSKQueFu5AhB7" version="12.9.10" type="github">
   <diagram id="aiKTjoL5iuAiYiU3BYi3" name="Page-1">
     <mxGraphModel dx="946" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QC4duMPSpsn-Ii6u6m_h-2" value="SYSTEME" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="850" y="380" width="30" height="60" as="geometry" />
+          <mxGeometry x="1110" y="350" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QC4duMPSpsn-Ii6u6m_h-3" value="CLIENT" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="380" width="30" height="60" as="geometry" />
@@ -31,7 +31,7 @@
         <mxCell id="QC4duMPSpsn-Ii6u6m_h-16" value="Régler en ligne" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="520" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QC4duMPSpsn-Ii6u6m_h-17" value="Suivre l&#39;état de sa commande" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QC4duMPSpsn-Ii6u6m_h-17" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Suivre l&#39;état de sa commande&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="590" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QC4duMPSpsn-Ii6u6m_h-18" value="Recevoir des messages" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -110,7 +110,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QC4duMPSpsn-Ii6u6m_h-34" value="Donner une adresse" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="120" width="170" height="60" as="geometry" />
+          <mxGeometry x="580" y="120" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QC4duMPSpsn-Ii6u6m_h-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="QC4duMPSpsn-Ii6u6m_h-40" target="QC4duMPSpsn-Ii6u6m_h-34">
           <mxGeometry relative="1" as="geometry" />
@@ -119,7 +119,7 @@
           <mxGeometry x="270" y="120" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QC4duMPSpsn-Ii6u6m_h-38" value="Disponibilité de la pizza" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="200" width="170" height="60" as="geometry" />
+          <mxGeometry x="580" y="200" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QC4duMPSpsn-Ii6u6m_h-39" value="" style="endArrow=none;html=1;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QC4duMPSpsn-Ii6u6m_h-43" target="QC4duMPSpsn-Ii6u6m_h-38">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -137,7 +137,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QC4duMPSpsn-Ii6u6m_h-48" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Dans les conditions fixées par le système&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="280" width="170" height="60" as="geometry" />
+          <mxGeometry x="580" y="310" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QC4duMPSpsn-Ii6u6m_h-43" value="&quot;includ&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="220" width="40" height="20" as="geometry" />
@@ -146,6 +146,66 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="230" as="sourcePoint" />
             <mxPoint x="520" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QC4duMPSpsn-Ii6u6m_h-50" value="&quot;extend&quot;" style="endArrow=none;html=1;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QC4duMPSpsn-Ii6u6m_h-14" target="QC4duMPSpsn-Ii6u6m_h-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="320" as="sourcePoint" />
+            <mxPoint x="530" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QC4duMPSpsn-Ii6u6m_h-52" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Met en lien le client et sa banque&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="520" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QC4duMPSpsn-Ii6u6m_h-53" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QC4duMPSpsn-Ii6u6m_h-2" target="QC4duMPSpsn-Ii6u6m_h-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="440" as="sourcePoint" />
+            <mxPoint x="890" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QC4duMPSpsn-Ii6u6m_h-55" value="&quot;includ&quot;" style="endArrow=none;html=1;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QC4duMPSpsn-Ii6u6m_h-52" target="QC4duMPSpsn-Ii6u6m_h-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="470" as="sourcePoint" />
+            <mxPoint x="700" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QC4duMPSpsn-Ii6u6m_h-56" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Suit et informe le client de l&#39;état de commande&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="590" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QC4duMPSpsn-Ii6u6m_h-57" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Envoi de messages d&#39;information&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="670" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QC4duMPSpsn-Ii6u6m_h-62" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QC4duMPSpsn-Ii6u6m_h-2" target="QC4duMPSpsn-Ii6u6m_h-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1090" y="380" as="sourcePoint" />
+            <mxPoint x="700" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QC4duMPSpsn-Ii6u6m_h-63" value="" style="endArrow=classic;html=1;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QC4duMPSpsn-Ii6u6m_h-56" target="QC4duMPSpsn-Ii6u6m_h-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="720" as="sourcePoint" />
+            <mxPoint x="700" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QC4duMPSpsn-Ii6u6m_h-64" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Suivi en live via la page &quot;Commandes&quot; su site Web&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="590" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QC4duMPSpsn-Ii6u6m_h-65" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QC4duMPSpsn-Ii6u6m_h-56" target="QC4duMPSpsn-Ii6u6m_h-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="670" as="sourcePoint" />
+            <mxPoint x="700" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QC4duMPSpsn-Ii6u6m_h-66" value="&quot;includ&quot;" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="QC4duMPSpsn-Ii6u6m_h-17" target="QC4duMPSpsn-Ii6u6m_h-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="720" as="sourcePoint" />
+            <mxPoint x="700" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QC4duMPSpsn-Ii6u6m_h-67" value="" style="endArrow=none;html=1;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QC4duMPSpsn-Ii6u6m_h-57" target="QC4duMPSpsn-Ii6u6m_h-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="720" as="sourcePoint" />
+            <mxPoint x="700" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
