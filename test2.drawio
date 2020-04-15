@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-15T14:22:26.833Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="aLn9bF2D6pE4paEEgdZD" version="12.9.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-15T14:27:33.348Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="zoRihuo0eizB_6zH3ozN" version="12.9.10" type="github">
   <diagram id="UFQtD4HVYV3ZrvzeGqqZ" name="Page-1">
-    <mxGraphModel dx="946" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1892" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -230,7 +230,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yTkPrfJT6yr5neGQz8j2-103" value="&lt;font style=&quot;font-size: 8px&quot;&gt;ASSURE LE SUVI DU PAIEMENT DES COMMANDES&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="1060" width="150" height="60" as="geometry" />
+          <mxGeometry x="1140" y="1060" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yTkPrfJT6yr5neGQz8j2-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="yTkPrfJT6yr5neGQz8j2-127" target="yTkPrfJT6yr5neGQz8j2-113">
           <mxGeometry relative="1" as="geometry" />
@@ -272,10 +272,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yTkPrfJT6yr5neGQz8j2-117" value="&lt;font style=&quot;font-size: 8px&quot;&gt;AFFICHE UN AIDE MÉMOIRE POUR LA RECETTE DE CHAQUE PIZZA&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="1169" width="150" height="60" as="geometry" />
+          <mxGeometry x="1150" y="1169" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yTkPrfJT6yr5neGQz8j2-118" value="PIZZAIOLO" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="890" width="30" height="60" as="geometry" />
+          <mxGeometry x="1580" y="1080" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yTkPrfJT6yr5neGQz8j2-124" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="yTkPrfJT6yr5neGQz8j2-117" target="yTkPrfJT6yr5neGQz8j2-118">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -283,9 +283,9 @@
             <mxPoint x="1160" y="1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yTkPrfJT6yr5neGQz8j2-126" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="yTkPrfJT6yr5neGQz8j2-105" target="yTkPrfJT6yr5neGQz8j2-118">
+        <mxCell id="yTkPrfJT6yr5neGQz8j2-126" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="yTkPrfJT6yr5neGQz8j2-145" target="yTkPrfJT6yr5neGQz8j2-118">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1270" y="830" as="sourcePoint" />
+            <mxPoint x="1430" y="890" as="sourcePoint" />
             <mxPoint x="1320" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -329,6 +329,27 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1010" y="1160" as="sourcePoint" />
             <mxPoint x="1060" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yTkPrfJT6yr5neGQz8j2-145" value="&lt;font style=&quot;font-size: 10px&quot;&gt;PASSE LA COMMANDE EN &quot;PRET À LA LIVRAISON&quot;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="840" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkPrfJT6yr5neGQz8j2-146" value="" style="endArrow=classic;html=1;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="yTkPrfJT6yr5neGQz8j2-145" target="yTkPrfJT6yr5neGQz8j2-105">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1240" y="1070" as="sourcePoint" />
+            <mxPoint x="1290" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yTkPrfJT6yr5neGQz8j2-147" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="yTkPrfJT6yr5neGQz8j2-2" target="yTkPrfJT6yr5neGQz8j2-103">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1440" y="1070" as="sourcePoint" />
+            <mxPoint x="1490" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yTkPrfJT6yr5neGQz8j2-148" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="yTkPrfJT6yr5neGQz8j2-2" target="yTkPrfJT6yr5neGQz8j2-117">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1180" y="1050" as="sourcePoint" />
+            <mxPoint x="1230" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
