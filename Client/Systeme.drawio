@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2020-04-15T15:03:50.399Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" version="12.9.10" etag="OzVDtQ6OLBKmvAa1jgkU" type="github"><diagram id="aiKTjoL5iuAiYiU3BYi3">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-15T15:07:28.084Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="2vt8WC6mrJxmVQgCuOfF" version="12.9.10" type="github">
+  <diagram id="aiKTjoL5iuAiYiU3BYi3" name="Page-1">
+    <mxGraphModel dx="946" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QC4duMPSpsn-Ii6u6m_h-2" value="SYSTEME" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QC4duMPSpsn-Ii6u6m_h-3" value="CLIENT" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QC4duMPSpsn-Ii6u6m_h-9" value="Accéder au site Web" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="40" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QC4duMPSpsn-Ii6u6m_h-10" value="Choisir un restaurant" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="120" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QC4duMPSpsn-Ii6u6m_h-12" value="Choisir une/plusieurs pizzas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="200" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QC4duMPSpsn-Ii6u6m_h-13" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="280" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QC4duMPSpsn-Ii6u6m_h-14" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="360" width="170" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
