@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-22T13:35:12.586Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="7Jc2olMUwven0Fx-GLXe" version="12.9.13" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-22T13:39:32.919Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="Xxjdn1p2LK2it-bjhuQm" version="12.9.13" type="github">
   <diagram id="K9GapVBDPHIvFuJplNbO" name="Page-1">
     <mxGraphModel dx="946" dy="1697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -161,7 +161,7 @@
           <mxGeometry x="290" y="480" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MGfbBTOL-nACpGUUXOaL-108" value="Avoir fourni une adresse" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="440" width="210" height="40" as="geometry" />
+          <mxGeometry x="560" y="520" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MGfbBTOL-nACpGUUXOaL-97" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="MGfbBTOL-nACpGUUXOaL-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -198,7 +198,7 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MGfbBTOL-nACpGUUXOaL-115" value="" style="endArrow=classic;html=1;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;startArrow=none;startFill=0;endFill=1;" edge="1" parent="1" source="MGfbBTOL-nACpGUUXOaL-94" target="MGfbBTOL-nACpGUUXOaL-108">
+        <mxCell id="MGfbBTOL-nACpGUUXOaL-115" value="" style="endArrow=classic;html=1;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MGfbBTOL-nACpGUUXOaL-94" target="MGfbBTOL-nACpGUUXOaL-108">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="340" as="sourcePoint" />
             <mxPoint x="500" y="290" as="targetPoint" />
@@ -208,20 +208,6 @@
           <mxGeometry x="0.409" y="1" relative="1" as="geometry">
             <mxPoint x="-12.45" y="3.19" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="MGfbBTOL-nACpGUUXOaL-119" value="" style="endArrow=none;dashed=1;html=1;entryX=0.886;entryY=0.875;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="MGfbBTOL-nACpGUUXOaL-120" target="MGfbBTOL-nACpGUUXOaL-94">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="510" as="sourcePoint" />
-            <mxPoint x="620" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MGfbBTOL-nACpGUUXOaL-122" value="&quot;include&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MGfbBTOL-nACpGUUXOaL-119">
-          <mxGeometry x="0.1199" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MGfbBTOL-nACpGUUXOaL-120" value="Recevoir des infos et code pour la livraison" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="520" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MGfbBTOL-nACpGUUXOaL-123" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -245,7 +231,7 @@
           <mxGeometry x="450" y="-150" width="555" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MGfbBTOL-nACpGUUXOaL-127" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeWidth=3;strokeColor=#000000;opacity=20;glass=1;perimeterSpacing=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="25" width="1280" height="550" as="geometry" />
+          <mxGeometry x="260" y="25" width="1280" height="550" as="geometry" />
         </mxCell>
         <mxCell id="MGfbBTOL-nACpGUUXOaL-130" value="&lt;font style=&quot;font-size: 19px&quot;&gt;Site web&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="775" y="-10" width="90" height="20" as="geometry" />
@@ -255,14 +241,14 @@
         </mxCell>
         <mxCell id="MGfbBTOL-nACpGUUXOaL-136" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="MGfbBTOL-nACpGUUXOaL-135">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="670" as="sourcePoint" />
+            <mxPoint x="200" y="680" as="sourcePoint" />
             <mxPoint x="510" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MGfbBTOL-nACpGUUXOaL-137" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="380" as="sourcePoint" />
-            <mxPoint x="200" y="640" as="targetPoint" />
+            <mxPoint x="200" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MGfbBTOL-nACpGUUXOaL-139" value="" style="endArrow=classic;dashed=1;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" edge="1" parent="1" source="MGfbBTOL-nACpGUUXOaL-135" target="MGfbBTOL-nACpGUUXOaL-140">
@@ -277,12 +263,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MGfbBTOL-nACpGUUXOaL-140" value="Recevoir les promotions" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="620" width="210" height="40" as="geometry" />
+          <mxGeometry x="640" y="600" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MGfbBTOL-nACpGUUXOaL-143" value="" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="700" width="210" height="40" as="geometry" />
+        <mxCell id="MGfbBTOL-nACpGUUXOaL-143" value="Recevoir un message de validation&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="660" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MGfbBTOL-nACpGUUXOaL-144" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MGfbBTOL-nACpGUUXOaL-135" target="MGfbBTOL-nACpGUUXOaL-143">
+        <mxCell id="MGfbBTOL-nACpGUUXOaL-144" value="" style="endArrow=classic;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;endFill=1;" edge="1" parent="1" source="MGfbBTOL-nACpGUUXOaL-135" target="MGfbBTOL-nACpGUUXOaL-143">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="630" as="sourcePoint" />
             <mxPoint x="530" y="580" as="targetPoint" />
@@ -292,6 +278,20 @@
           <mxGeometry x="0.1073" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MGfbBTOL-nACpGUUXOaL-146" value="" style="endArrow=none;dashed=1;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;endFill=0;startArrow=classic;startFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MGfbBTOL-nACpGUUXOaL-147" target="MGfbBTOL-nACpGUUXOaL-135">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="720" as="sourcePoint" />
+            <mxPoint x="710" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MGfbBTOL-nACpGUUXOaL-148" value="&quot;includ&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MGfbBTOL-nACpGUUXOaL-146">
+          <mxGeometry x="0.1376" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MGfbBTOL-nACpGUUXOaL-147" value="Recevoir un message d&#39;information sur la livraison" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="720" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
