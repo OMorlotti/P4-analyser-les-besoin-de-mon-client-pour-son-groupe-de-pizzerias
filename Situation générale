@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2020-04-29T12:33:54.941Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" version="13.0.1" etag="AhkcDP8udQI589B6mtFG" type="github"><diagram id="KBU8Esk8Gn45BPyg1115">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-29T12:41:50.473Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="X7xGHahaiqg0jngcro-8" version="13.0.1" type="github">
+  <diagram id="KBU8Esk8Gn45BPyg1115" name="Page-1">
+    <mxGraphModel dx="946" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_Acl4eHcjDTjobWJaioa-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;OC Pizza&lt;/font&gt;&lt;/b&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="250" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_Acl4eHcjDTjobWJaioa-4" value="CLIENT" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="320" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_Acl4eHcjDTjobWJaioa-5" value="PIZZAIOLO" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_Acl4eHcjDTjobWJaioa-6" value="HÔTE DE CAISSE" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_Acl4eHcjDTjobWJaioa-7" value="LIVREUR&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_Acl4eHcjDTjobWJaioa-9" value="MANAGER" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="320" y="480" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
