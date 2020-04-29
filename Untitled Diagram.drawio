@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-29T13:24:46.248Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="KVF6u7Dkoh-bQoByRThy" version="13.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-29T13:26:23.056Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="we1A8G72xtTOQW4az7jt" version="13.0.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1773" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1773" dy="1642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -235,7 +235,7 @@
             <mxPoint x="73" y="-15.33" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SvVdULVF1Hvvb6DCQOAH-13" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 28px&quot;&gt;&lt;b&gt;Diagramme d&#39;activité :&lt;br&gt;la gestion d&#39;une commande&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF99CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="SvVdULVF1Hvvb6DCQOAH-13" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 28px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF99CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="-330" width="590" height="110" as="geometry" />
         </mxCell>
         <mxCell id="SvVdULVF1Hvvb6DCQOAH-16" value="&lt;font color=&quot;#000000&quot;&gt;&lt;i&gt;La demande de paiement interviendra au stade &quot;Commande en préparation&quot;&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF99CC;dashed=1;dashPattern=1 2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
