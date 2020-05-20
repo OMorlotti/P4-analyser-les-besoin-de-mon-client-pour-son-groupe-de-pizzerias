@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-20T13:39:10.304Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="u1iEIOE6w10aUvy-enOu" version="13.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-20T14:16:32.208Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="j478xr4wyeScM9wYuyxX" version="13.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2404" dy="1956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,7 +12,7 @@
             <mxPoint x="320" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Choix d&#39;une pizza : &lt;font color=&quot;#99004d&quot;&gt;catalogue&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Choix d&#39;une pizza : &lt;font color=&quot;#99004d&quot;&gt;&lt;b&gt;catalogue&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="138" y="148.41" width="163" height="62.54" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
@@ -229,16 +229,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ly4D3T_GI__T_LjPky5A-12" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 15px&quot;&gt;Pas de confirmation :&lt;br&gt;&lt;br&gt;Message &quot;commande confirmée&quot; =&amp;gt; retour au règlement&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF99CC;dashed=1;dashPattern=1 2;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="Ly4D3T_GI__T_LjPky5A-12" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Pas de confirmation :&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#000000&quot;&gt;Message &quot;commande confirmée&quot; =&amp;gt; retour au &lt;/font&gt;&lt;b&gt;&lt;font color=&quot;#663300&quot;&gt;règlement&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF99CC;dashed=1;dashPattern=1 2;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="970" y="750.0000000000001" width="225" height="79.25" as="geometry" />
         </mxCell>
-        <mxCell id="Ly4D3T_GI__T_LjPky5A-10" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 15px&quot;&gt;Confirmation :&lt;br&gt;&lt;br&gt;Commande annulée =&amp;gt; retour au &lt;/font&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;font color=&quot;#99004d&quot;&gt;catalogue&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF99CC;dashed=1;dashPattern=1 2;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="590" y="750.0000000000001" width="206" height="72.6" as="geometry" />
+        <mxCell id="Ly4D3T_GI__T_LjPky5A-10" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 15px&quot;&gt;Confirmation :&lt;br&gt;&lt;br&gt;Commande annulée =&amp;gt; retour au &lt;/font&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;font color=&quot;#99004d&quot;&gt;&lt;b&gt;catalogue&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF99CC;dashed=1;dashPattern=1 2;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="590" y="750.0000000000001" width="206" height="101.99999999999989" as="geometry" />
         </mxCell>
         <mxCell id="Ly4D3T_GI__T_LjPky5A-2" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 15px&quot;&gt;Modification:&lt;br&gt;Retour au panier&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF99CC;dashed=1;dashPattern=1 2;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="440" y="610" width="206" height="72.6" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Règlement&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="&lt;font style=&quot;font-size: 20px&quot; color=&quot;#663300&quot;&gt;&lt;b&gt;Règlement&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="156" y="900" width="129" height="103.2" as="geometry" />
         </mxCell>
         <mxCell id="SvVdULVF1Hvvb6DCQOAH-16" value="&lt;i style=&quot;color: rgb(0 , 0 , 0) ; font-size: 15px&quot;&gt;Le règlement à proprement parlé interviendra au stade &quot;&lt;/i&gt;&lt;i style=&quot;font-size: 15px&quot;&gt;&lt;font color=&quot;#3399ff&quot;&gt;Commande en préparation&lt;/font&gt;&lt;/i&gt;&lt;i style=&quot;color: rgb(0 , 0 , 0) ; font-size: 15px&quot;&gt;&quot;&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF99CC;dashed=1;dashPattern=1 2;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
