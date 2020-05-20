@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-20T14:25:43.622Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="zA0PKLqd1K-ED4mYgtrP" version="13.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-20T14:28:35.577Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="9X18XgUHhmbRcnXdYl_w" version="13.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2178" dy="1843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -242,7 +242,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="&lt;font style=&quot;font-size: 20px&quot; color=&quot;#663300&quot;&gt;&lt;b&gt;Règlement&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="156" y="900" width="129" height="103.2" as="geometry" />
         </mxCell>
-        <mxCell id="SvVdULVF1Hvvb6DCQOAH-16" value="&lt;i style=&quot;color: rgb(0 , 0 , 0) ; font-size: 15px&quot;&gt;Le règlement à proprement parlé interviendra au stade &quot;&lt;/i&gt;&lt;i style=&quot;font-size: 15px&quot;&gt;&lt;font color=&quot;#3399ff&quot;&gt;Commande en préparation&lt;/font&gt;&lt;/i&gt;&lt;i style=&quot;color: rgb(0 , 0 , 0) ; font-size: 15px&quot;&gt;&quot;&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF99CC;dashed=1;dashPattern=1 2;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="SvVdULVF1Hvvb6DCQOAH-16" value="&lt;i style=&quot;color: rgb(0 , 0 , 0) ; font-size: 15px&quot;&gt;Le débit interviendra au stade &quot;&lt;/i&gt;&lt;i style=&quot;font-size: 15px&quot;&gt;&lt;font color=&quot;#3399ff&quot;&gt;Commande en préparation&lt;/font&gt;&lt;/i&gt;&lt;i style=&quot;color: rgb(0 , 0 , 0) ; font-size: 15px&quot;&gt;&quot;&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF99CC;dashed=1;dashPattern=1 2;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="568" y="917.7499999999999" width="198" height="69.8" as="geometry" />
         </mxCell>
         <mxCell id="uQ-XWgEHN9rOL8nD1H7O-8" value="" style="endArrow=none;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
