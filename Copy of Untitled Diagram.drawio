@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-08T11:57:51.938Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="wO5i5Bs-Xs7qGrSq2pyJ" version="13.1.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-08T12:12:04.496Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="2j64ci_c-AGyviJ1JtgD" version="13.1.14" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2404" dy="1957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -128,7 +128,7 @@
         <mxCell id="bbMm7TcKJNfFNzZPyWXp-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uQ-XWgEHN9rOL8nD1H7O-30" target="bbMm7TcKJNfFNzZPyWXp-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uQ-XWgEHN9rOL8nD1H7O-30" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Commande en livraison&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=north;fillColor=#d5e8d4;strokeColor=#82b366;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="uQ-XWgEHN9rOL8nD1H7O-30" value="&lt;span style=&quot;font-size: 20px&quot;&gt;Commande livrée&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=north;fillColor=#d5e8d4;strokeColor=#82b366;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="138" y="1474.44" width="165" height="68.88" as="geometry" />
         </mxCell>
         <mxCell id="bbMm7TcKJNfFNzZPyWXp-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bbMm7TcKJNfFNzZPyWXp-21" target="bbMm7TcKJNfFNzZPyWXp-23" edge="1">
@@ -357,6 +357,9 @@
             <mxPoint x="650" y="1370" as="sourcePoint" />
             <mxPoint x="700" y="1320" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1Tk0HkHW5LTEGYrqBiVO-10" value="&lt;font style=&quot;font-size: 15px&quot;&gt;La commande est archivée&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=north;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;dashPattern=1 2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="483" y="1474.4400000000003" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
