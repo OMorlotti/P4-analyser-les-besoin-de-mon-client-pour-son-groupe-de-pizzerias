@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-08T12:21:37.926Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="buqxRee3ukLmAcH53giy" version="13.1.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-08T12:22:06.823Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="m1mVhKjlPf-kR_h5-Exn" version="13.1.14" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2404" dy="1957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -208,10 +208,19 @@
         <mxCell id="Ly4D3T_GI__T_LjPky5A-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ly4D3T_GI__T_LjPky5A-1" target="Ly4D3T_GI__T_LjPky5A-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1255" y="372.72000000000025" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1420" y="350" />
+              <mxPoint x="1253" y="350" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Ly4D3T_GI__T_LjPky5A-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ly4D3T_GI__T_LjPky5A-1" target="Ly4D3T_GI__T_LjPky5A-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1420" y="350" />
+              <mxPoint x="1595" y="350" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ly4D3T_GI__T_LjPky5A-1" value="&lt;font color=&quot;#000000&quot; size=&quot;1&quot;&gt;&lt;i style=&quot;font-size: 15px&quot;&gt;Envoi d&#39;un message avec un lien URL permettant l&#39;ajout d&#39;article /annulation de la commande&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF99CC;dashed=1;dashPattern=1 2;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1317" y="240" width="205" height="72.24" as="geometry" />
