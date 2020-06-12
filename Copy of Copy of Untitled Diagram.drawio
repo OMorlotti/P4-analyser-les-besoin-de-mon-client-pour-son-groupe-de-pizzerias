@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-11T12:54:45.832Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="MlQIN-Az2X5swAjnmI8A" version="13.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-12T15:24:53.791Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="r3uuJDvqKGyxPK2WpTaO" version="13.2.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2404" dy="2044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2404" dy="2039" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -175,27 +175,6 @@
         <mxCell id="MHTNPu9FD_tJbpRzddWY-18" value="&lt;i&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Génération du QR Code (n° de commande)&lt;/font&gt;&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=north;fillColor=#F5F5F5;strokeColor=#666666;dashed=1;dashPattern=1 2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="486" y="1084.2600000000002" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ly4D3T_GI__T_LjPky5A-1" value="&lt;font color=&quot;#000000&quot; size=&quot;1&quot;&gt;&lt;i style=&quot;font-size: 15px&quot;&gt;Envoi d&#39;un message avec un lien URL permettant l&#39;ajout d&#39;article /annulation de la commande&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;aspect=fixed;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="840" y="477.27" width="205" height="72.24" as="geometry" />
-        </mxCell>
-        <mxCell id="Ly4D3T_GI__T_LjPky5A-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ly4D3T_GI__T_LjPky5A-6" target="Ly4D3T_GI__T_LjPky5A-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Ly4D3T_GI__T_LjPky5A-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ly4D3T_GI__T_LjPky5A-6" target="Ly4D3T_GI__T_LjPky5A-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Ly4D3T_GI__T_LjPky5A-6" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 15px&quot;&gt;Annulation :&lt;br&gt;Afficher le panier et demander confirmation&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;aspect=fixed;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1123" y="539.84" width="205" height="72.25" as="geometry" />
-        </mxCell>
-        <mxCell id="Ly4D3T_GI__T_LjPky5A-12" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Pas de confirmation :&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#000000&quot;&gt;Message &quot;commande confirmée&quot; =&amp;gt; retour au &lt;/font&gt;&lt;b&gt;&lt;font color=&quot;#663300&quot;&gt;règlement&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF99CC;dashed=1;dashPattern=1 2;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1354" y="440.00000000000017" width="225" height="79.25" as="geometry" />
-        </mxCell>
-        <mxCell id="Ly4D3T_GI__T_LjPky5A-10" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 15px&quot;&gt;Confirmation :&lt;br&gt;&lt;br&gt;Commande annulée =&amp;gt; retour au &lt;/font&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;font color=&quot;#99004d&quot;&gt;&lt;b&gt;catalogue&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF99CC;dashed=1;dashPattern=1 2;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1366.5" y="620.0000000000001" width="200" height="99" as="geometry" />
-        </mxCell>
-        <mxCell id="Ly4D3T_GI__T_LjPky5A-2" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 15px&quot;&gt;Modification:&lt;br&gt;Ajout de pizza&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;aspect=fixed;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1123" y="420" width="137" height="48.45" as="geometry" />
-        </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="&lt;font style=&quot;font-size: 20px&quot; color=&quot;#663300&quot;&gt;&lt;b&gt;Règlement&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="77" y="830.05" width="129" height="103.2" as="geometry" />
         </mxCell>
@@ -333,21 +312,6 @@
         <mxCell id="1Tk0HkHW5LTEGYrqBiVO-20" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#6C8EBF;gradientColor=#ffffff;aspect=fixed;strokeColor=#6C8EBF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="808" y="1543.32" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1Tk0HkHW5LTEGYrqBiVO-31" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ly4D3T_GI__T_LjPky5A-1" target="Ly4D3T_GI__T_LjPky5A-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1074" y="600" as="sourcePoint" />
-            <mxPoint x="1124" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1Tk0HkHW5LTEGYrqBiVO-32" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ly4D3T_GI__T_LjPky5A-1" target="Ly4D3T_GI__T_LjPky5A-6" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1074" y="600" as="sourcePoint" />
-            <mxPoint x="1124" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1Tk0HkHW5LTEGYrqBiVO-36" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="834" y="236.51" width="783" height="400" as="geometry" />
-        </mxCell>
         <mxCell id="1Tk0HkHW5LTEGYrqBiVO-40" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Panier validé&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="70" y="750" width="143" height="47.59" as="geometry" />
         </mxCell>
@@ -371,7 +335,7 @@
             <mxPoint x="57" y="8.79" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Panier constitué ?&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;aspect=fixed;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Panier constitué ?&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;aspect=fixed;fillColor=#FFFFFF;strokeColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="70" y="555.6" width="143" height="114.4" as="geometry" />
         </mxCell>
         <mxCell id="lguihTrJesUZVeJumMv--8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Fh5ID8DqyuNmly4tTI_g-9">
@@ -384,8 +348,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lguihTrJesUZVeJumMv--24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=none;strokeWidth=2;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-122" y="260" width="902" height="430" as="geometry" />
+        <mxCell id="lguihTrJesUZVeJumMv--24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=none;strokeWidth=2;dashed=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-89" y="260" width="902" height="430" as="geometry" />
         </mxCell>
         <mxCell id="lguihTrJesUZVeJumMv--25" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;Création panier&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="240" width="170" height="20" as="geometry" />
