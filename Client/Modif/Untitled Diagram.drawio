@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-06-26T14:31:06.275Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="CJ0oK4n2CCTAnKcsf0pc" version="13.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-26T14:44:42.064Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="k4MUYKj51Q2DFgvbukiY" version="13.3.5" type="github">
   <diagram id="z9IjnxbGLv4WJxgL45KA" name="Page-1">
-    <mxGraphModel dx="1113" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YTkOEfqqr1IpD95FYDRK-61" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="850" width="1040" height="60" as="geometry" />
+          <mxGeometry x="80" y="850" width="1000" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YTkOEfqqr1IpD95FYDRK-1" value="MANAGER" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="80" y="50" width="30" height="60" as="geometry" />
