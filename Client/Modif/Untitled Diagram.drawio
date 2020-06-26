@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-26T14:44:42.064Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="k4MUYKj51Q2DFgvbukiY" version="13.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-26T15:17:10.287Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="uAjgUqE9A14sQFyE9_3r" version="13.3.5" type="github">
   <diagram id="z9IjnxbGLv4WJxgL45KA" name="Page-1">
-    <mxGraphModel dx="1113" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -105,10 +105,10 @@
             <mxPoint x="-66.88" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YTkOEfqqr1IpD95FYDRK-35" value="" style="endArrow=classic;html=1;entryX=1.406;entryY=0.289;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="YTkOEfqqr1IpD95FYDRK-6">
+        <mxCell id="YTkOEfqqr1IpD95FYDRK-35" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="571" y="480" as="sourcePoint" />
-            <mxPoint x="400" y="460" as="targetPoint" />
+            <mxPoint x="334" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YTkOEfqqr1IpD95FYDRK-36" value="STATUT COMMANDE : PAYÉE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YTkOEfqqr1IpD95FYDRK-35">
@@ -133,7 +133,7 @@
             <mxPoint x="334" y="559" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YTkOEfqqr1IpD95FYDRK-43" value="MET À JOUR LE STATUT : EN&amp;nbsp; PRÉPARATION" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YTkOEfqqr1IpD95FYDRK-39">
+        <mxCell id="YTkOEfqqr1IpD95FYDRK-43" value="MET À JOUR LE STATUT : &lt;b&gt;&lt;font color=&quot;#3399ff&quot;&gt;COMMANDE EN&amp;nbsp; PRÉPARATION&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YTkOEfqqr1IpD95FYDRK-39">
           <mxGeometry x="0.1091" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
@@ -177,7 +177,7 @@
             <mxPoint x="1060" y="721.4399999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YTkOEfqqr1IpD95FYDRK-51" value="AFFICHE LA COMMANDE EN ATTENTION DE LIVRAISON" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YTkOEfqqr1IpD95FYDRK-50">
+        <mxCell id="YTkOEfqqr1IpD95FYDRK-51" value="AFFICHE LA &lt;font color=&quot;#ff99cc&quot;&gt;&lt;b&gt;COMMANDE EN ATTENTE DE LIVRAISON&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YTkOEfqqr1IpD95FYDRK-50">
           <mxGeometry x="0.066" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -188,7 +188,7 @@
             <mxPoint x="1060.06" y="759.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YTkOEfqqr1IpD95FYDRK-53" value="MET À JOUR LE STATUT : COMMANDE EN LIVRAISON" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YTkOEfqqr1IpD95FYDRK-52">
+        <mxCell id="YTkOEfqqr1IpD95FYDRK-53" value="MET À JOUR LE STATUT : &lt;b&gt;&lt;font color=&quot;#ff8000&quot;&gt;COMMANDE EN LIVRAISON&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YTkOEfqqr1IpD95FYDRK-52">
           <mxGeometry x="0.066" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -218,10 +218,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YTkOEfqqr1IpD95FYDRK-67" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.897;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.006;exitY=0.897;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YTkOEfqqr1IpD95FYDRK-20" target="YTkOEfqqr1IpD95FYDRK-5">
+        <mxCell id="YTkOEfqqr1IpD95FYDRK-67" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.897;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.006;exitY=0.897;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="900" as="sourcePoint" />
-            <mxPoint x="590" y="850" as="targetPoint" />
+            <mxPoint x="1060" y="960.0000000000003" as="sourcePoint" />
+            <mxPoint x="100.06" y="960.0000000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YTkOEfqqr1IpD95FYDRK-68" value="LIVRAISON" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YTkOEfqqr1IpD95FYDRK-67">
@@ -229,16 +229,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YTkOEfqqr1IpD95FYDRK-69" value="" style="endArrow=classic;html=1;exitX=-0.006;exitY=0.948;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YTkOEfqqr1IpD95FYDRK-20">
+        <mxCell id="YTkOEfqqr1IpD95FYDRK-69" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="1170" as="sourcePoint" />
-            <mxPoint x="333" y="996" as="targetPoint" />
+            <mxPoint x="1060" y="1000" as="sourcePoint" />
+            <mxPoint x="333.06" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YTkOEfqqr1IpD95FYDRK-70" value="STATUT DE LA COMMANDE : COMMANDE LIVRÉE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YTkOEfqqr1IpD95FYDRK-69">
+        <mxCell id="YTkOEfqqr1IpD95FYDRK-70" value="STATUT DE LA COMMANDE : &lt;b&gt;&lt;font color=&quot;#67ab9f&quot;&gt;COMMANDE LIVRÉE&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YTkOEfqqr1IpD95FYDRK-69">
           <mxGeometry x="0.2346" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="68.24" y="-7.0000000000000036" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YTkOEfqqr1IpD95FYDRK-71" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="806" y="726" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
